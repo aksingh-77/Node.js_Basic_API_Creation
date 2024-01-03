@@ -1,0 +1,28 @@
+{
+  "name": "basic_api_creation",
+  "version": "1.0.0",
+  "description": "This is just the basic project to learn how API's are reated in Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aksingh-77/Node.js_Basic_API_Creation.git"
+  },
+  "keywords": [
+    "Node.js",
+    "API",
+    "JavaScript"
+  ],
+  "author": "Abhishek Singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aksingh-77/Node.js_Basic_API_Creation/issues"
+  },
+  "homepage": "https://github.com/aksingh-77/Node.js_Basic_API_Creation#readme",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "nodemon": "^3.0.2"
+  }
+}
